@@ -90,6 +90,7 @@ body > main article {
 #ingredient-image img {
     transform: rotate(90deg);
     padding: 20px;
+    border-radius: 20%;
 }
 
 #main-content {
