@@ -65,7 +65,7 @@ body > main article {
 }
 
 #about-heading {
-    background-color: rgb(232, 211, 95);
+    background-color: rgba(225, 207, 119, 0.931);
 }
 
 #content-container {
@@ -79,7 +79,7 @@ body > main article {
 }
 
 #ingredient-heading {
-    background-color: rgb(232, 211, 95);
+    background-color: rgba(225, 207, 119, 0.929);
 }
 
 #ingredient-list {
@@ -102,11 +102,11 @@ body > main article {
 }
 
 #instructions-heading {
-    background-color: rgb(232, 211, 95);
+    background-color: rgba(225, 207, 119, 0.825);
 }
 
 #recipe-notes {
-    background-color: wheat;
+    background-color: rgba(225, 207, 119, 0.929);
     color: black;
 }
 
@@ -119,7 +119,7 @@ h2 {
 }
 
 body > footer {
-    background-color: rgb(218, 207, 147);
+    background-color: rgb(225, 207, 119);
 }
 
 img {
